@@ -1,0 +1,9 @@
+[
+null,
+{"id":1,"atypeId":3,"description":"説明：暗殺者的特殊裝備，由魔力編織而成。\n　　　可以透過魔法瞬間著裝和卸除。","etypeId":4,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":152,"name":"暗殺者的裝備<一式>","note":"","params":[0,0,1,1,0,0,10,0],"price":0},
+{"id":2,"atypeId":1,"description":"","etypeId":3,"traits":[{"code":22,"dataId":1,"value":0},{"code":53,"dataId":3,"value":1}],"iconIndex":0,"name":"-----------","note":"","params":[0,0,0,0,0,0,0,0],"price":0},
+{"id":3,"atypeId":1,"description":"","etypeId":4,"traits":[{"code":22,"dataId":1,"value":0},{"code":53,"dataId":4,"value":1}],"iconIndex":0,"name":"-----------","note":"","params":[0,0,0,0,0,0,0,0],"price":0},
+{"id":4,"atypeId":1,"description":"","etypeId":5,"traits":[{"code":22,"dataId":1,"value":0},{"code":53,"dataId":5,"value":1}],"iconIndex":0,"name":"-----------","note":"","params":[0,0,0,0,0,0,0,0],"price":0},
+{"id":5,"atypeId":3,"description":"説明：暗殺者的特殊上級裝備，由魔力編織而成。\n　　　可以透過魔法瞬間著裝和卸除。","etypeId":4,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":152,"name":"暗殺者的上級裝備<一式>","note":"","params":[200,100,5,5,0,0,10,0],"price":0},
+{"id":6,"atypeId":1,"description":"","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0},{"code":53,"dataId":2,"value":1}],"iconIndex":0,"name":"-----------","note":"","params":[0,0,0,0,0,0,0,0],"price":0}
+]

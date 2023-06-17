@@ -1,0 +1,8 @@
+[
+null,
+{"id":1,"animationId":0,"description":"暗殺者專用的匕首。暴擊率高。","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":2,"value":0.3}],"iconIndex":96,"name":"匕首","note":"","params":[0,0,1,0,0,0,0,0],"price":0,"wtypeId":1},
+{"id":2,"animationId":0,"description":"有一定概率造成中毒的短刀。","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":32,"dataId":4,"value":0.2}],"iconIndex":96,"name":"毒之短刀","note":"","params":[0,0,5,0,0,0,0,0],"price":0,"wtypeId":1},
+{"id":3,"animationId":0,"description":"熊熊燃燒的炎之短刀。","etypeId":1,"traits":[{"code":31,"dataId":2,"value":0}],"iconIndex":96,"name":"炎之短刀","note":"","params":[0,0,10,0,0,0,0,0],"price":0,"wtypeId":1},
+{"id":4,"animationId":0,"description":"有些大把的短刀。暴擊率高。","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":2,"value":0.3}],"iconIndex":96,"name":"格鬥短刀","note":"","params":[0,0,15,0,0,0,0,0],"price":0,"wtypeId":1},
+{"id":5,"animationId":0,"description":"暗殺者的短刀。有一定概率使敵人立即死亡。","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":2,"value":0.3},{"code":13,"dataId":1,"value":0.3}],"iconIndex":96,"name":"刺客短刀","note":"","params":[0,0,10,0,0,0,0,0],"price":0,"wtypeId":1}
+]
